@@ -1,10 +1,10 @@
-# MRSE: Medical Research Search Engine.
+# MRSEadd: Summarizer of top search results of a Medical Research Search Engine.
 
 ## Installation
 
 You may install mrse directly from GitHub. Using a Python Virtual Environment is recommended.
 
-    pip3 install git+https://github.com/DavidRivasPhD/mrse
+    pip3 install git+https://github.com/DavidRivasPhD/mrseadd
 
 Python 3.6+ is supported
 
